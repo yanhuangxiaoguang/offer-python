@@ -51,12 +51,13 @@ array1 = [ [ 0,  5, 10, 15],
 array2 = [[0],[1],[2],[3],[4],[5],[6],[7],[8],[9],[10],[11],[12],[13],[14],[15],[16],[17],[18],[19]]
 array3 = [[ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]]
 array4 = [[]]
-'''测试'''
 
+'''用例的个数'''
+array_num = 5
+
+'''测试'''
 s = Solution()
 target_list = [9, 9.5, -1, 20, 4]
-# 用例的个数
-array_num = 5
 for m, e in enumerate(target_list):
     for k in range(array_num):
         array_name = 'array' +  str(k)
