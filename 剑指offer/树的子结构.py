@@ -63,8 +63,6 @@ node_9 = TreeNode(6)
 node_7.right = node_8
 node_8.right = node_9
 
-'''用例的个数'''
-
 '''测试'''
 s = Solution()
 print(s.HasSubtree(node_0, node_7))

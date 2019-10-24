@@ -39,4 +39,6 @@
 
 [面试题15：反转链表](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py)
 
-[面试题15：合并两个排序的链表](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.py)
+[面试题16：合并两个排序的链表](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.py)
+
+[面试题17：树的子结构](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.py)
