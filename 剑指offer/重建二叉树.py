@@ -107,4 +107,5 @@ levelorder_traversal(tree)
 level_list = []
 for i, e in enumerate(level_list_n):
     level_list += e
+    print(' '.join(map(str, e)))
 print(' '.join(map(str, level_list)))
