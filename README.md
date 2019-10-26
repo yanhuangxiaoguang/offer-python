@@ -47,5 +47,5 @@
 
 [面试题19：顺时针打印矩阵](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.py)
 
-
+[面试题20：包含min函数的栈](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.py)
 
