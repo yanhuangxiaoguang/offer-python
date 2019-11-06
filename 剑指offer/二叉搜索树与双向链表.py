@@ -53,6 +53,7 @@ class Solution:
             while right.left:
                 right = right.left
             pRootOfTree.right, right.left = right, pRootOfTree
+
         '''返回最左的节点，最小值'''
         while pRootOfTree.left:
             pRootOfTree = pRootOfTree.left
