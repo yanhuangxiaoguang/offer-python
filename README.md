@@ -65,6 +65,6 @@
 
 [面试题28：数组中出现次数超过一半的数字](https://github.com/yanhuangxiaoguang/offer-python/blob/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.py)
 
-[面试题29：]()
+[面试题29：]()a
 
 [面试题30：]()
